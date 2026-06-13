@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serious Mode"
+  short_description: "Clarify intent, plan, then implement safely"
+  default_prompt: "Use $serious-mode to clarify the request, inspect the codebase, plan with checklists, and implement against the plan."
